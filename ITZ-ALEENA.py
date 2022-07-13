@@ -18,11 +18,9 @@ import os
 
 try:
 
-	
-
 	os.system("pip install requests")
 
-try:
+
 
 	import concurrent.futures
 
